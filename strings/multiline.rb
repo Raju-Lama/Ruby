@@ -7,3 +7,7 @@ puts <<EOF
   including special characters like \n and \t.
   You can also use it for documentation or comments.
 EOF
+# like preformatting in HTML or Markdown
+
+# EOF is just a delimiter, you can use any word you like
+
